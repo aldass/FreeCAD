@@ -41,6 +41,7 @@ your model history and changing its parameters.
     * **Qt** Graphical User Interface built with Qt
 
 
+
 Installing
 ----------
 
@@ -51,6 +52,8 @@ On most Linux distributions, FreeCAD is directly installable from the
 software center application.
 
 Other options are described at the [wiki Download page](http://www.freecadweb.org/wiki/Download).
+
+
 
 Build Status <img src="https://blog.travis-ci.com/images/travis-mascot-200px.png" height="30"/>
 ------------
@@ -63,6 +66,8 @@ Build Status <img src="https://blog.travis-ci.com/images/travis-mascot-200px.png
 [freecad-master-status]: https://travis-ci.org/FreeCAD/FreeCAD.svg?branch=master
 [travis-branches]: https://travis-ci.org/FreeCAD/FreeCAD/branches
 [travis-builds]: https://travis-ci.org/FreeCAD/FreeCAD/builds
+
+
 
 Compiling
 ---------
@@ -82,6 +87,8 @@ The pages below contain up-to-date build instructions:
 - [Mac OSX](http://www.freecadweb.org/wiki/CompileOnMac)
 - [Cygwin](http://www.freecadweb.org/wiki/CompileOnCygwin)
 - [MinGW](http://www.freecadweb.org/wiki/CompileOnMinGW)
+
+
 
 Usage & Getting help
 --------------------
